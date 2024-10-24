@@ -14,7 +14,7 @@
     "@fullcalendar/vue": "4.2.0",
     "bootstrap": "4.4.1",
     "moment": "2.24.0",
-    "vue": "2.6.10"
+    "vue": "3.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
